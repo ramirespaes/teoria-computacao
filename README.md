@@ -1,5 +1,10 @@
 Teoria da Computação
 
+Alunos >
+BRUNO LUIS PEREIRA
+RAFAEL DOS SANTOS PEREIRA
+RAMIRES SILVA PAES 
+
 Este repositório contém os exercícios práticos da disciplina de Teoria da Computação, desenvolvidos em Python.
 
 Tema da atividade
